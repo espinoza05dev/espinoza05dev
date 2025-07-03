@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Salvador Espinoza</h1>
-<h3 align="center">A Versatile software and web developer</h3>
+<h3 align="left">A Versatile software and web developer with proficiency in C#, Python, C++, and Java. I possess strong expertise in SQL, including experience with PostgreSQL and MySQL databases. Currently, I am pursuing a degree in Software Engineering while actively applying my knowledge through hands-on projects that emphasize practical, real-world applications. I am highly skilled in problem-solving and dedicated to developing efficient, scalable, and maintainable software solutions</h3>
 
 - 🔭 I’m currently working on **E-Commerce**
+
+- 👨‍💻 All of my projects are available at [https://espinoza-dev.vercel.app](https://espinoza-dev.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
